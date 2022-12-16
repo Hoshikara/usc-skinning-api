@@ -20,6 +20,8 @@
 ---
 ---@field hitWindow HitWindow
 ---
+---@field isLocal boolean
+---
 ---@field mirror mirror
 ---
 ---@field misses integer # The total error count.
@@ -27,6 +29,8 @@
 ---@field name playerName # Only available for `Multiplayer`.
 ---
 ---@field perfects integer # The total critical count.
+---
+---@field playerName string
 ---
 ---@field random random
 ---
