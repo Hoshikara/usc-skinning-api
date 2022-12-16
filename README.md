@@ -1,6 +1,6 @@
-## Skinning API Documentation for [Unnamed SDVX Clone](https://github.com/Drewol/unnamed-sdvx-clone)
+## Skinning API Documentation for [USC](https://github.com/Drewol/unnamed-sdvx-clone)
 
-Enables autocompletion, function signatures, hover hints, etc. for USC's skinning functions and tables.
+For USC skin development in VS Code. Enables autocompletion, function signatures, hover hints, etc. for skinning functions and tables.
 
 ![Example](./example.png)
 
@@ -8,7 +8,7 @@ Created in part with reference to the [official skinning documentation](https://
 
 ## Usage
 
-Install this required [extension](https://marketplace.visualstudio.com/items?itemName=sumneko.lua) for VS Code.
+Install this [extension](https://marketplace.visualstudio.com/items?itemName=sumneko.lua).
 
 Add this repository as a submodule and in your `settings.json`, add an entry pointing to it to the `Lua.workspace.library` setting, e.g.
 
